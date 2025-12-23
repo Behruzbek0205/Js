@@ -43,3 +43,14 @@
 // } else {
 //   console.log("Suv muzlagan");
 // }
+
+//  6. misol
+// isLogin true bo‘lsa "Xush kelibsiz", false bo‘lsa "Login qiling" chiqsin.
+
+let isLogin = false;
+
+if (!isLogin) {
+  console.log("Xush kelibsiz");
+} else {
+  console.log("Login qiling");
+}
