@@ -16,3 +16,12 @@
 // } else {
 //   console.log("Manfiy son");
 // }
+
+//  3. misol
+// password "12345" ga teng bo‘lsa "To‘g‘ri parol" chiqsin.
+// let password = prompt('Password kiriting')
+// if (password == "12345") {
+//   console.log("To‘g‘ri parol");
+// }else{
+//   console.log("Passwordingiz xato");
+// }
