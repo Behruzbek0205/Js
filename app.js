@@ -1,5 +1,5 @@
 // age 18 yoki undan katta bo‘lsa "Voyaga yetgan", aks holda "Voyaga yetmagan" chiqadigan kod yoz.
-let age
+let age = prompt("Yoshingizni kiriting")
 if (age >= 18) {
   console.log("voyaga etgan");
 } else {
