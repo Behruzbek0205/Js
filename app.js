@@ -25,3 +25,12 @@
 // }else{
 //   console.log("Passwordingiz xato");
 // }
+
+// 4. misol
+// money 50 000 dan kam bo‘lsa "Pul yetarli emas", aks holda "Xarid mumkin".
+// let money = prompt("Pul sanang");
+// if (money >= 50000) {
+//   console.log("Xarid mumkin");
+// } else {
+//   console.log("Pul yetarli emas");
+// }
