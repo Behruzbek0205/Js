@@ -34,3 +34,12 @@
 // } else {
 //   console.log("Pul yetarli emas");
 // }
+
+//  5. misol
+// temp 0 dan past bo‘lsa "Muz", aks holda "Muz emas".
+// let temp = prompt("Temperaturani kiriting ?");
+// if (temp >= 0) {
+//   console.log("Suv muz emas");
+// } else {
+//   console.log("Suv muzlagan");
+// }
