@@ -137,3 +137,16 @@
 //   console.log("toq son");
 // }
 
+
+
+// // 4 masala
+// let baho = prompt("balingizni baholang")
+// if ( baho >=90){
+//   console.log("alo");
+// } else if(baho >=80 && baho <=89){
+//   console.log("yaxshi");
+// }else if (baho >=70 && baho <=79){
+//   console.log("qoniqarli");
+// }else if ( baho >=0 && baho <=69){
+//   console.log("qoniqarsiz");
+// }
