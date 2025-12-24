@@ -261,4 +261,10 @@
 //   console.log("10 bonus ball qo‘shilsin.");
 // }else if(ballar >100){
 //   console.log("20 bonus ball qo‘shilsin.");
+// }// //  15 masala
+// let bolish = prompt("Son 5 ga va 3 ga bo‘linishini tekshirish")
+// if(bolish % 5 === 0 && bolish % 3=== 0){
+//   console.log("5 va 3 ga bo‘linadi");
+// }else{
+//   console.log("bolinmaydi");
 // }
