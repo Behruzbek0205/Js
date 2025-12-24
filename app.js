@@ -278,3 +278,18 @@
 // }else if(tezlik >=80){
 //   console.log("Jarima");
 // }
+
+
+// // 17 masala
+// let daromad = prompt("Oylik daromadingizni kiriting");
+// let xarajat = prompt("Oylik xarajatingizni kiriting");
+
+// if (xarajat < daromad) {
+//   console.log("Tejamkorlik");
+// } else if (xarajat === daromad) {
+//   console.log("Barqaror");
+// } else if (xarajat > daromad) {
+//   console.log("Ortiqcha sarf-xarajat");
+// } else {
+//   console.log("Noto‘g‘ri ma'lumot kiritildi");
+// }
