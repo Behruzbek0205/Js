@@ -150,3 +150,13 @@
 // }else if ( baho >=0 && baho <=69){
 //   console.log("qoniqarsiz");
 // }
+
+// // 5 masala
+// let chegirma = prompt("chegirmani xisoblang")
+// if (chegirma >100){
+//   console.log("10% chegirma");
+// }else if(chegirma >50 && chegirma <=100){
+//   console.log("5% chegirma");
+// }else if (chegirma <=50){
+//   console.log("chegirma yoq");
+// }
