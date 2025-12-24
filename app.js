@@ -76,3 +76,12 @@
 // }
 
 
+// 9.misol
+// online holatini tekshir.
+// let online = true;
+
+// if (online) {
+//   console.log("Online");
+// } else {
+//   console.log("Offline");
+// }
