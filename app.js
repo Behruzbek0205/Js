@@ -85,3 +85,14 @@
 // } else {
 //   console.log("Offline");
 // }
+
+
+// 10.misol
+//light "on" bo‘lsa "Yoqilgan", aks holda "O‘chiq".
+// let isLogin = false;
+
+// if (isLogin) {
+//   console.log("Xush kelibsiz");
+// } else {
+//   console.log("Login qiling");
+// }
