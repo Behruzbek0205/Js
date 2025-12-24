@@ -168,3 +168,7 @@
 // }else { 
 //   console.log("Voyaga yetmagan");
 // }
+
+// // 7 masala
+// let login = prompt("Loginni kiriting:");
+// let parol = prompt("Parolni kiriting:");
