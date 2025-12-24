@@ -268,3 +268,13 @@
 // }else{
 //   console.log("bolinmaydi");
 // }
+
+// // 16 masala
+// let tezlik = prompt("Avtomobil jarimasi")
+// if(tezlik <=60){
+//   console.log("Tezlik me’yorida");
+// }else if(tezlik >=60 && tezlik <=80){
+//   console.log("Ogohlantirish");
+// }else if(tezlik >=80){
+//   console.log("Jarima");
+// }
