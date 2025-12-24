@@ -187,3 +187,13 @@
 // }else if (harakat >30){
 //   console.log("Juda issiq");
 // }
+
+// // 9 masala
+// let soat = prompt("Havola qabul qilish")
+// if (soat >=6 && harakat <12){
+//   console.log("Ertalab");
+// }else if(soat >=12 && soat <18){
+//   console.log("Kunduzi");
+// }else if (soat >=18 && soat <=23 || soat <=0 && soat <6 ){
+//   console.log("Kechasi");
+// }
