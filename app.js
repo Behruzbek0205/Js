@@ -127,3 +127,13 @@
 // }else if(masala <=0){
 //   console.log("manfiy");
 // }
+
+// // ikkinchi masala
+// let son = Number(prompt("juft yoki toq sonni aniqlang"))
+// console.log(son);
+// if(son % 2 === 0){
+//   console.log("juft son");
+// }else{
+//   console.log("toq son");
+// }
+
