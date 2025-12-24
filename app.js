@@ -47,10 +47,21 @@
 //  6. misol
 // isLogin true bo‘lsa "Xush kelibsiz", false bo‘lsa "Login qiling" chiqsin.
 
-let isLogin = false;
+// let isLogin = false;
 
-if (!isLogin) {
-  console.log("Xush kelibsiz");
-} else {
-  console.log("Login qiling");
-}
+// if (!isLogin) {
+//   console.log("Xush kelibsiz");
+// } else {
+//   console.log("Login qiling");
+// }
+
+// 7. misol
+//  car true bo‘lsa "Mashina bor", false bo‘lsa "Mashina yo‘q".
+
+// let car = true;
+
+// if (car) {
+//   console.log("Mashina bor");
+// } else {
+//   console.log("Mashina yo‘q");
+// }
