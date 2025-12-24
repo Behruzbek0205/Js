@@ -293,3 +293,13 @@
 // } else {
 //   console.log("Noto‘g‘ri ma'lumot kiritildi");
 // }
+
+// // 18 masala
+// let price = prompt("Narx cheklovi")
+// if (price >=100){
+//   console.log("Qimmat");
+// }else if(price >=50 && price <=100){
+//   console.log("O‘rtacha");
+// }else if(price <=50){
+//   console.log("Arzon");
+// }
