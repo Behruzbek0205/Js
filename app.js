@@ -119,3 +119,11 @@
 // } else {
 //   console.log("Kech");
 // }
+
+// // birinchi masala
+// let masala = prompt("manfiy yoki musbatni aniqlang")
+// if (masala >0){
+//   console.log("musbat");
+// }else if(masala <=0){
+//   console.log("manfiy");
+// }
