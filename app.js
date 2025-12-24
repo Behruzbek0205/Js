@@ -251,3 +251,14 @@
 // }else if(fasl ==="Kuz"){
 //   console.log("Sovuq kunlarga tayyor turing.");
 // }
+
+
+// // 14 masala
+// let ballar = prompt("O‘yin ballariga qarab bonus hisoblash")
+// if (ballar <=50){
+//   console.log("hech qanday bonus yo‘q.");
+// }else if(ballar >=50 && ballar <=100){
+//   console.log("10 bonus ball qo‘shilsin.");
+// }else if(ballar >100){
+//   console.log("20 bonus ball qo‘shilsin.");
+// }
