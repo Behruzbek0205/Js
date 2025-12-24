@@ -65,3 +65,14 @@
 // } else {
 //   console.log("Mashina yo‘q");
 // }
+
+// 8. misol
+// score 60 dan katta bo‘lsa "O‘tdi", aks holda "Yiqildi".
+// let score = prompt("scoringizni kiriting");
+// if (score >= 60) {
+//   console.log("Ottingiz");
+// } else {
+//   console.log("Yiqildingiz");
+// }
+
+
