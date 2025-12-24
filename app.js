@@ -197,3 +197,16 @@
 // }else if (soat >=18 && soat <=23 || soat <=0 && soat <6 ){
 //   console.log("Kechasi");
 // }
+
+
+// // 10 masala
+// let oy = prompt("Oy mavsumi aniqlash")
+// if (oy ==12 && oy ==1 && oy ==2){
+//   console.log("Qish");
+// }else if( oy ==3 && oy ==4 && oy ==5){
+//   console.log("Bahor");
+// }else if (oy == 6 && oy == 7 && oy ==8){
+//   console.log("yoz");
+// }else if (oy ==9 && oy ==10 && oy ==11 ){
+//   console.log("Kuz");
+// }
