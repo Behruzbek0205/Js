@@ -75,7 +75,6 @@
 //   console.log("Yiqildingiz");
 // }
 
-
 // 9.misol
 // online holatini tekshir.
 // let online = true;
@@ -86,7 +85,6 @@
 //   console.log("Offline");
 // }
 
-
 // 10.misol
 //light "on" bo‘lsa "Yoqilgan", aks holda "O‘chiq".
 // let isLogin = false;
@@ -95,4 +93,17 @@
 //   console.log("Xush kelibsiz");
 // } else {
 //   console.log("Login qiling");
+// }
+
+// 11.misol
+// ball: 90+ → A 80–89 → B qolgan → C:
+
+// let ball = prompt("Balingizni kiriting ");
+
+// if (ball >= 90) {
+//   console.log("A");
+// } else if (ball >= 80 && 89) {
+//   console.log("B");
+// } else {
+//   console.log("C");
 // }
