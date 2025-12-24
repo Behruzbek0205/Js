@@ -107,3 +107,15 @@
 // } else {
 //   console.log("C");
 // }
+
+// 12.misol
+// hour: < 12 → Ertalab < 18 → Kunduz else → Kech
+
+// let hour = prompt("Soat kiriting ");
+// if (hour < 12 ) {
+//   console.log("Ertalab");
+// } else if (hour < 18 ) {
+//   console.log("Kunduzi");
+// } else {
+//   console.log("Kech");
+// }
