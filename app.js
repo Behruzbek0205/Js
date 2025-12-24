@@ -172,3 +172,18 @@
 // // 7 masala
 // let login = prompt("Loginni kiriting:");
 // let parol = prompt("Parolni kiriting:");
+
+// if (login === "admin" && parol === "1234") {
+//   console.log("Hush kelibsiz");
+// } else {
+//   console.log("Login yoki parol noto‘g‘ri");
+// }
+// // 8 masala
+// let harakat = prompt("Tepalik yoki pastlikni aniqlash")
+// if(harakat <0){
+//   console.log("Muzlik");
+// }else if (harakat >=0 && harakat <=30){
+//   console.log("Yoqimli harorat");
+// }else if (harakat >30){
+//   console.log("Juda issiq");
+// }
