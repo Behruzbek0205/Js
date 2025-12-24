@@ -210,3 +210,22 @@
 // }else if (oy ==9 && oy ==10 && oy ==11 ){
 //   console.log("Kuz");
 // }
+
+
+// // 11 masala
+// let kun = prompt("hafta kunlari")
+// if(kun == 1){
+//   console.log("Dushanba");
+// }else if (kun == 2){
+//   console.log("Seshanba");
+// }else if (kun == 3){
+//   console.log("Chorshanba");
+// }else if (kun == 4){
+//   console.log("Payshanba");
+// }else if (kun == 5){
+//   console.log("Juma");
+// }else if (kun == 6){
+//   console.log("Shanba");
+// }else if (kun == 7){
+//   console.log("Yakshanba");
+// }
