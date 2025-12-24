@@ -229,3 +229,12 @@
 // }else if (kun == 7){
 //   console.log("Yakshanba");
 // }
+
+
+// // 12 masala
+// let narx =prompt("narxni aniqlang")
+// if(narx <=10){
+//   console.log("narx 500 so‘m.");
+// }else if(narx >=10){
+//   console.log("narx 450 so‘m.");
+// }
