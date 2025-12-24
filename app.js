@@ -160,3 +160,11 @@
 // }else if (chegirma <=50){
 //   console.log("chegirma yoq");
 // }
+
+// // 6 masala
+// let yosh = prompt("Yoshinigizni kiriting!");
+// if (yosh >= 18) {
+//   console.log("siz katta yoshdasiz");
+// }else { 
+//   console.log("Voyaga yetmagan");
+// }
