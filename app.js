@@ -238,3 +238,16 @@
 // }else if(narx >=10){
 //   console.log("narx 450 so‘m.");
 // }
+
+
+// //13 masala
+// let fasl = prompt("Yil fasli bo‘yicha harorat tavsiyasi")
+// if (fasl ==="Qish"){
+//   console.log("Sovuq, issiq kiyining.");
+// }else if(fasl ==="Bahor"){
+//   console.log("Ob-havo o‘zgaruvchan, ehtiyot bo‘ling.");
+// }else if(fasl ==="Yoz"){
+//   console.log("Issiq, suyuqlik ko‘proq iching.");
+// }else if(fasl ==="Kuz"){
+//   console.log("Sovuq kunlarga tayyor turing.");
+// }
