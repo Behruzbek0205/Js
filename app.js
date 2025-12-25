@@ -324,7 +324,7 @@
 
 // 69 va past → C
 
-// let age = prompt('BAlingizni kiriting ?');
+// let age = 87;
 
 // if (age >= 90) {
 //   console.log("A");
