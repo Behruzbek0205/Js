@@ -313,3 +313,25 @@
 // } else {
 //   console.log("Juda katta yosh");
 // }
+
+//  misol 21
+// Ball = 87
+// Agar ball:
+
+// 90 va undan yuqori → A
+
+// 70–89 → B
+
+// 69 va past → C
+
+// let age = prompt('BAlingizni kiriting ?');
+
+// if (age >= 90) {
+//   console.log("A");
+// } else if (age >= 70 && age <= 89) {
+//   console.log("B");
+// } else if (age <= 69) {
+//   console.log("C");
+// } else {
+//   console.log("Juda past ball");
+// }
