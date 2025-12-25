@@ -137,8 +137,6 @@
 //   console.log("toq son");
 // }
 
-
-
 // // 4 masala
 // let baho = prompt("balingizni baholang")
 // if ( baho >=90){
@@ -165,7 +163,7 @@
 // let yosh = prompt("Yoshinigizni kiriting!");
 // if (yosh >= 18) {
 //   console.log("siz katta yoshdasiz");
-// }else { 
+// }else {
 //   console.log("Voyaga yetmagan");
 // }
 
@@ -198,7 +196,6 @@
 //   console.log("Kechasi");
 // }
 
-
 // // 10 masala
 // let oy = prompt("Oy mavsumi aniqlash")
 // if (oy ==12 && oy ==1 && oy ==2){
@@ -210,7 +207,6 @@
 // }else if (oy ==9 && oy ==10 && oy ==11 ){
 //   console.log("Kuz");
 // }
-
 
 // // 11 masala
 // let kun = prompt("hafta kunlari")
@@ -230,7 +226,6 @@
 //   console.log("Yakshanba");
 // }
 
-
 // // 12 masala
 // let narx =prompt("narxni aniqlang")
 // if(narx <=10){
@@ -238,7 +233,6 @@
 // }else if(narx >=10){
 //   console.log("narx 450 so‘m.");
 // }
-
 
 // //13 masala
 // let fasl = prompt("Yil fasli bo‘yicha harorat tavsiyasi")
@@ -251,7 +245,6 @@
 // }else if(fasl ==="Kuz"){
 //   console.log("Sovuq kunlarga tayyor turing.");
 // }
-
 
 // // 14 masala
 // let ballar = prompt("O‘yin ballariga qarab bonus hisoblash")
@@ -279,7 +272,6 @@
 //   console.log("Jarima");
 // }
 
-
 // // 17 masala
 // let daromad = prompt("Oylik daromadingizni kiriting");
 // let xarajat = prompt("Oylik xarajatingizni kiriting");
@@ -302,4 +294,22 @@
 //   console.log("O‘rtacha");
 // }else if(price <=50){
 //   console.log("Arzon");
+// }
+
+// misol.20
+// Yosh = 16
+// 0–6 → Bog‘cha
+// 7–17 → Maktab
+// 18+ → Ish
+
+// let yosh = prompt("Yoshingizni kiriting ?");
+
+// if (yosh > 6) {
+//   console.log("Bog‘cha");
+// } else if (yosh > 7 && 17) {
+//   console.log("maktab oquvchisi");
+// } else if (yosh > 18) {
+//   console.log("Ish");
+// } else {
+//   console.log("Nafaqa");
 // }
