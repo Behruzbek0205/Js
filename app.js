@@ -304,12 +304,12 @@
 
 // let yosh = prompt("Yoshingizni kiriting ?");
 
-// if (yosh > 6) {
+// if (yosh >= 0 && yosh <= 6) {
 //   console.log("Bog‘cha");
-// } else if (yosh > 7 && 17) {
+// } else if (yosh >= 7 && yosh <= 17) {
 //   console.log("maktab oquvchisi");
-// } else if (yosh > 18) {
+// } else if (yosh >= 18) {
 //   console.log("Ish");
 // } else {
-//   console.log("Nafaqa");
+//   console.log("Juda katta yosh");
 // }
