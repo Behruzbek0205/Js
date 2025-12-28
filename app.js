@@ -417,11 +417,11 @@
 
 // boshqasi → Yomon
 
-let baho = 4;
-if ((baho >= 5)) {
-  console.log("Alo");
-} else if ((baho <= 4)) {
-  console.log("Yaxshi");
-} else {
-  console.log("Yomon");
-}
+// let baho = 4;
+// if ((baho >= 5)) {
+//   console.log("Alo");
+// } else if ((baho <= 4)) {
+//   console.log("Yaxshi");
+// } else {
+//   console.log("Yomon");
+// }
