@@ -372,3 +372,19 @@
 // } else {
 //   console.log("tez");
 // }
+
+// dam olish kunlari
+
+// Kun = "shanba"
+
+// shanba / yakshanba → Dam olish kuni
+
+// boshqa kunlar → Ish kuni
+
+let kun = prompt("Kun kiriting")  ;
+
+if (kun == "shanba" || kun == "yakshanba") {
+  console.log("dam olish kuni");
+} else {
+  console.log("Ish kuni");
+}
