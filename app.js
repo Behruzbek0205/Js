@@ -381,10 +381,10 @@
 
 // boshqa kunlar → Ish kuni
 
-let kun = prompt("Kun kiriting")  ;
+// let kun = prompt("Kun kiriting")  ;
 
-if (kun == "shanba" || kun == "yakshanba") {
-  console.log("dam olish kuni");
-} else {
-  console.log("Ish kuni");
-}
+// if (kun == "shanba" || kun == "yakshanba") {
+//   console.log("dam olish kuni");
+// } else {
+//   console.log("Ish kuni");
+// }
