@@ -344,11 +344,11 @@
 
 // Boshqa vaqtda → Kech
 
-let soat = 15;
-if (soat >= 6 && soat <= 11) {
-  console.log("Ertalab");
-} else if (soat >= 12 && soat <= 17) {
-  console.log("Kunduz");
-} else {
-  console.log("Kech");
-}
+// let soat = 15;
+// if (soat >= 6 && soat <= 11) {
+//   console.log("Ertalab");
+// } else if (soat >= 12 && soat <= 17) {
+//   console.log("Kunduz");
+// } else {
+//   console.log("Kech");
+// }
