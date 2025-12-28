@@ -399,12 +399,12 @@
 
 //  harorat
 
-let harorat = 5;
+// let harorat = 5;
 
-if (harorat <= 0) {
-  console.log("Muz 🥶");
-} else if (harorat >= 1 && harorat <= 15) {
-  console.log("sovuq");
-} else {
-  console.log("Iliq");
-}
+// if (harorat <= 0) {
+//   console.log("Muz 🥶");
+// } else if (harorat >= 1 && harorat <= 15) {
+//   console.log("sovuq");
+// } else {
+//   console.log("Iliq");
+// }
