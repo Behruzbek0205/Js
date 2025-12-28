@@ -363,12 +363,12 @@
 
 // misol === tezlik
 
-let tezlik = 70;
+// let tezlik = 70;
 
-if (tezlik >= 0 && tezlik <= 30) {
-  console.log("Sekin");
-} else if (tezlik >= 31 && tezlik <= 70) {
-  console.log("Normal");
-} else {
-  console.log("tez");
-}
+// if (tezlik >= 0 && tezlik <= 30) {
+//   console.log("Sekin");
+// } else if (tezlik >= 31 && tezlik <= 70) {
+//   console.log("Normal");
+// } else {
+//   console.log("tez");
+// }
