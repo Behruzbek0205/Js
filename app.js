@@ -381,10 +381,10 @@
 
 // boshqa kunlar → Ish kuni
 
-let kun = "shanba";
+// let kun = "shanba";
 
-if (kun == "shanba" || kun == "yakshanba") {
-  console.log("dam olish kuni");
-} else {
-  console.log("Ish kunlari");
-}
+// if (kun == "shanba" || kun == "yakshanba") {
+//   console.log("dam olish kuni");
+// } else {
+//   console.log("Ish kunlari");
+// }
