@@ -352,3 +352,23 @@
 // } else {
 //   console.log("Kech");
 // }
+
+// Tezlik = 70 km/soat
+
+// 0–30 → Sekin
+
+// 31–70 → Normal
+
+// 71+ → Tez
+
+// misol === tezlik
+
+let tezlik = 70;
+
+if (tezlik >= 0 && tezlik <= 30) {
+  console.log("Sekin");
+} else if (tezlik >= 31 && tezlik <= 70) {
+  console.log("Normal");
+} else {
+  console.log("tez");
+}
