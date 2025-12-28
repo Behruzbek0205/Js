@@ -408,3 +408,20 @@
 // } else {
 //   console.log("Iliq");
 // }
+
+// Baho = 4
+
+// 5 → A’lo
+
+// 4 → Yaxshi
+
+// boshqasi → Yomon
+
+let baho = 4;
+if ((baho >= 5)) {
+  console.log("Alo");
+} else if ((baho <= 4)) {
+  console.log("Yaxshi");
+} else {
+  console.log("Yomon");
+}
