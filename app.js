@@ -416,14 +416,14 @@
 // 4 → Yaxshi
 
 // boshqasi → Yomon
-let baho = Number(prompt("Baho kiriting"));
+// let baho = Number(prompt("Baho kiriting"));
 
-if (baho === 5) {
-  console.log("A’lo");
-} else if (baho === 4) {
-  console.log("Yaxshi");
-} else if (baho >= 1 && baho <= 3) {
-  console.log("Yomon");
-} else {
-  console.log("Xato baho");
-}
+// if (baho === 5) {
+//   console.log("A’lo");
+// } else if (baho === 4) {
+//   console.log("Yaxshi");
+// } else if (baho >= 1 && baho <= 3) {
+//   console.log("Yomon");
+// } else {
+//   console.log("Xato baho");
+// }
