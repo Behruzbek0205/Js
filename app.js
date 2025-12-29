@@ -455,13 +455,13 @@
 
 // 0–20 → Kam
 
-let batareya = prompt("Foiyz kriting ?");
-if (batareya >= 51 && batareya <= 100) {
-  console.log("Yaxshi");
-} else if (batareya >= 21 && batareya <= 50) {
-  console.log("Ortacha");
-} else if (batareya >= 0 && batareya <= 20) {
-  console.log("kam");
-} else {
-  console.log("Xatolik yuz berdi");
-}
+// let batareya = prompt("Foiyz kriting ?");
+// if (batareya >= 51 && batareya <= 100) {
+//   console.log("Yaxshi");
+// } else if (batareya >= 21 && batareya <= 50) {
+//   console.log("Ortacha");
+// } else if (batareya >= 0 && batareya <= 20) {
+//   console.log("kam");
+// } else {
+//   console.log("Xatolik yuz berdi");
+// }
