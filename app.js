@@ -46,7 +46,6 @@
 
 //  6. misol
 // isLogin true bo‘lsa "Xush kelibsiz", false bo‘lsa "Login qiling" chiqsin.
-
 // let isLogin = false;
 
 // if (!isLogin) {
@@ -427,3 +426,23 @@
 // } else {
 //   console.log("Xato baho");
 // }
+
+// Foydalanuvchi roli = "user"
+
+// admin → Admin
+
+// user → User
+
+// boshqasi → Guest
+
+let Foydalanuvchi = "user";
+
+if (Foydalanuvchi === "admin") {
+  console.log("Admin");
+} else if (Foydalanuvchi === "user") {
+  console.log("User");
+} else if (Foydalanuvchi === "guest") {
+  console.log("Guest");
+} else {
+  console.log("Xatolik uyzberdi");
+}
