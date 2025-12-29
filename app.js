@@ -466,13 +466,13 @@
 //   console.log("Xatolik yuz berdi");
 // }
 
-//Til = "uz" → salomlashuv chiqaring
-let till = prompt("Tillini kiriting");
+// //Til = "uz" → salomlashuv chiqaring
+// let till = prompt("Tillini kiriting");
 
-if (till === "uz") {
-  console.log("Uzbek tili");
-} else if (till === "ru") {
-  console.log("rus tili");
-} else {
-  console.log("Bunday till yoq");
-}
+// if (till === "uz") {
+//   console.log("Uzbek tili");
+// } else if (till === "ru") {
+//   console.log("rus tili");
+// } else {
+//   console.log("Bunday till yoq");
+// }
