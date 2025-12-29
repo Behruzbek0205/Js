@@ -435,14 +435,14 @@
 
 // boshqasi → Guest
 
-let Foydalanuvchi = "user";
+// let Foydalanuvchi = "user";
 
-if (Foydalanuvchi === "admin") {
-  console.log("Admin");
-} else if (Foydalanuvchi === "user") {
-  console.log("User");
-} else if (Foydalanuvchi === "guest") {
-  console.log("Guest");
-} else {
-  console.log("Xatolik uyzberdi");
-}
+// if (Foydalanuvchi === "admin") {
+//   console.log("Admin");
+// } else if (Foydalanuvchi === "user") {
+//   console.log("User");
+// } else if (Foydalanuvchi === "guest") {
+//   console.log("Guest");
+// } else {
+//   console.log("Xatolik uyzberdi");
+// }
