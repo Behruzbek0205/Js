@@ -481,5 +481,9 @@
 // let numbers = [3, 7, 10, 15, 20, 25];
 // console.log(numbers.filter(item => item >= 10).map(item => item * 2));
 
-let arr = [1, 5, 10, 15, 20];
-console.log(arr.filter(item => item >= 10));
+let arr1 = [1, 5, 10, 15, 20];
+console.log(arr1.filter(item => item >= 10));
+
+
+let arr2 = [10, 20, 30];
+console.log(arr2.reduce((item , index) => item + index ));
