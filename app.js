@@ -480,4 +480,4 @@
 
 //  31 dekabr 
 let numbers = [3, 7, 10, 15, 20, 25];
-console.log(numbers.filter(item => item >= 10));
+console.log(numbers.filter(item => item >= 10).map(item => item * 2));
