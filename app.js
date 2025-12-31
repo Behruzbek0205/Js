@@ -477,7 +477,9 @@
 //   console.log("Bunday till yoq");
 // }
 
-
-//  31 dekabr 
+//  31 dekabr
 // let numbers = [3, 7, 10, 15, 20, 25];
 // console.log(numbers.filter(item => item >= 10).map(item => item * 2));
+
+let arr = [1, 5, 10, 15, 20];
+console.log(arr.filter(item => item >= 10));
